@@ -8,9 +8,9 @@ namespace MultiControllerAPI.Controllers
     {
         // GET: api/greeter
         [HttpGet]
-        public IActionResult Greet([FromQuery] string name)
+        public IActionResult Greet([FromQuery] string name="")
         {
-            if (string.IsNullOrEmpty(name))
+            if (name=="")
             {
                 name = "anonymous";
             }

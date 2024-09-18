@@ -9,9 +9,9 @@ namespace Task45.Controllers
     {
         // GET: api/birthdate
         [HttpGet]
-        public IActionResult GetAge([FromQuery] string name, [FromQuery] int? years, [FromQuery] int? months, [FromQuery] int? days)
+        public IActionResult GetAge([FromQuery] int? years, [FromQuery] int? months, [FromQuery] int? days ,[FromQuery] string name = "")
         {
-            if (string.IsNullOrEmpty(name))
+            if (name=="")
             {
                 name = "anonymous";
             }
