@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obied\\OneDrive\\Desktop\\JoVision-Backend-tasks\\Task47\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBEA744-8C8B-4F5C-8A84-740F1D7133EE}|Task47\\Task47.csproj|c:\\users\\obied\\onedrive\\desktop\\jovision-backend-tasks\\task47\\task47\\controllers\\imagedeletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBEA744-8C8B-4F5C-8A84-740F1D7133EE}|Task47\\Task47.csproj|solutionrelative:task47\\controllers\\imagedeletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBEA744-8C8B-4F5C-8A84-740F1D7133EE}|Task47\\Task47.csproj|c:\\users\\obied\\onedrive\\desktop\\jovision-backend-tasks\\task47\\task47\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBEA744-8C8B-4F5C-8A84-740F1D7133EE}|Task47\\Task47.csproj|solutionrelative:task47\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBEA744-8C8B-4F5C-8A84-740F1D7133EE}|Task47\\Task47.csproj|c:\\users\\obied\\onedrive\\desktop\\jovision-backend-tasks\\task47\\task47\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBEA744-8C8B-4F5C-8A84-740F1D7133EE}|Task47\\Task47.csproj|solutionrelative:task47\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageDeleteController.cs",
+              "DocumentMoniker": "C:\\Users\\obied\\OneDrive\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\ImageDeleteController.cs",
+              "RelativeDocumentMoniker": "Task47\\Controllers\\ImageDeleteController.cs",
+              "ToolTip": "C:\\Users\\obied\\OneDrive\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\ImageDeleteController.cs",
+              "RelativeToolTip": "Task47\\Controllers\\ImageDeleteController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:44:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\obied\\OneDrive\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\ImageUploadController.cs",
+              "RelativeDocumentMoniker": "Task47\\Controllers\\ImageUploadController.cs",
+              "ToolTip": "C:\\Users\\obied\\OneDrive\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\ImageUploadController.cs",
+              "RelativeToolTip": "Task47\\Controllers\\ImageUploadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:51:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\obied\\OneDrive\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Task47\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\obied\\OneDrive\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Task47\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:05:07.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
