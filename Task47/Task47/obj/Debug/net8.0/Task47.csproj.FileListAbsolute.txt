@@ -35,3 +35,4 @@ C:\Users\obied\OneDrive\Desktop\JoVision-Backend-tasks\Task47\Task47\obj\Debug\n
 C:\Users\obied\OneDrive\Desktop\JoVision-Backend-tasks\Task47\Task47\obj\Debug\net8.0\Task47.genruntimeconfig.cache
 C:\Users\obied\OneDrive\Desktop\JoVision-Backend-tasks\Task47\Task47\obj\Debug\net8.0\ref\Task47.dll
 C:\Users\obied\OneDrive\Desktop\JoVision-Backend-tasks\Task47\Task47\bin\Debug\net8.0\Metadata\RGBimage.json
+C:\Users\obied\OneDrive\Desktop\JoVision-Backend-tasks\Task47\Task47\bin\Debug\net8.0\Metadata\7.json
